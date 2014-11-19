@@ -1,0 +1,34 @@
+{
+  "name": "orphanarium",
+  "version": "1.0.0",
+  "description": "detect non-required files in your source tree with browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmcw/orphanarium.git"
+  },
+  "bin": {
+    "orphanarium": "index.js"
+  },
+  "keywords": [
+    "browserify",
+    "modules",
+    "dependencies",
+    "cleanup"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmcw/orphanarium/issues"
+  },
+  "homepage": "https://github.com/tmcw/orphanarium",
+  "dependencies": {
+    "collections": "^1.2.1",
+    "concat-stream": "^1.4.6",
+    "minimist": "^1.1.0",
+    "readdirp": "^1.1.0"
+  }
+}
