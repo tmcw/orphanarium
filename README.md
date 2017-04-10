@@ -1,5 +1,7 @@
 # orphanarium
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/orphanarium.svg)](https://greenkeeper.io/)
+
 Find non-required files in your source tree. For big [browserify](http://browserify.org/)
 project, this can turn up orphaned files.
 
