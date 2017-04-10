@@ -26,9 +26,9 @@
   },
   "homepage": "https://github.com/tmcw/orphanarium",
   "dependencies": {
-    "collections": "^1.2.1",
+    "collections": "^5.0.6",
     "concat-stream": "^1.4.6",
     "minimist": "^1.1.0",
-    "readdirp": "^1.1.0"
+    "readdirp": "^2.1.0"
   }
 }
